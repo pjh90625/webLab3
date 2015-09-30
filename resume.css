@@ -1,0 +1,37 @@
+﻿body{
+	background-image:"http://selab.hanyang.ac.kr/courses/cse326/2015/problems/images/3/blueTextureBG.jpg"
+}
+
+h1{
+	border: 5px solid thick red; 
+	
+}
+h2{
+	
+	border-bottom: blue dashed thick 2px;
+	text-align:right;
+	
+}
+body{
+	border: 10px solid thick white;
+	background-color: white;
+}
+#area1{
+	
+	border-radius: 12px solid thick #1D2475;
+	background-color:#CCCCCC;
+	padding-top:5px;
+	margin-top:5px;
+	clear:right;
+}
+
+#area0{
+	text-align:center;
+}
+#photo1{
+	float:right;
+}
+p{
+	overflow:hidden;
+	
+}
